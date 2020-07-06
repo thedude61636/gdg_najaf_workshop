@@ -1,4 +1,4 @@
-# gdgnajaf
+# GDGNajaf Worksop
 
 GDGNajaf flutter workshop
 
