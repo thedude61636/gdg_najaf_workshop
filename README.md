@@ -2,15 +2,9 @@
 
 GDGNajaf flutter workshop
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is the code for the workshop  
+you can find the [Here](https://www.facebook.com/watch/live/?v=979159169186352&ref=watch_permalink)  
+and the slides [Here](https://docs.google.com/presentation/d/1W-Pi0zGoQOmNbcgofvyYvD-jahOTj0g2lJHqqvm6A6s/edit?usp=sharing)  
+go give a like to the designer [Here](https://dribbble.com/shots/7225024-School-App)  
+and if you're up to it finish the design and do a pull request  
+![design](design.png)
